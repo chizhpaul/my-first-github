@@ -1,3 +1,7 @@
+# my-first-github
+Hello! This is my first github project!
+
+
 Домашнее задание к занятию "GIT" - Чижиков Павел
 
 Инструкция по выполнению домашнего задания
